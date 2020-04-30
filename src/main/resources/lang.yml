@@ -1,0 +1,13 @@
+finished-butchering-title: '&0'
+finished-butchering-subtitle: '&a&lFINISHED BUTCHERING'
+ongoing-butchering-title: '&7&lBUTCHERING ANIMAL'
+progress-filled-part: '&c█'
+progress-empty-part: '&7█'
+interrupted-butchering-title: '&0'
+interrupted-butchering-subtitle: '&c&lBUTCHERING INTERRUPTED'
+command-not-found: '&cInvalid command'
+command-no-permission: '&cNo permission'
+command-help:
+- '&7&lCommands:'
+- '   &7- &e/animalhunt reload'
+command-reload: '&eConfiguration has been reloaded!'

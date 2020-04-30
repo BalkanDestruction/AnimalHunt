@@ -1,0 +1,16 @@
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+/.idea/
+/.settings/
+
+# Build
+/build/
+/bin/
+/dist/
+/manifast.mf
+
+# Maven
+/target/
+/build.xml
